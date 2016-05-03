@@ -1,0 +1,15 @@
+
+.godo-cover {
+  background-image: repeating-radial-gradient();
+}
+
+.profile {
+  height: 192px;
+  width: 192px;
+  box-shadow: 0 0 30px rgba(255,255,255,.6), inset 0 0 30px rgba(255,255,255,1);
+  -webkit-box-shadow: 0 0 30px rgba(255,255,255,.6), inset 0 0 30px rgba(255,255,255,1);
+  -moz-box-shadow: 0 0 30px rgba(255,255,255,.6), inset 0 0 30px rgba(255,255,255,1);
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
